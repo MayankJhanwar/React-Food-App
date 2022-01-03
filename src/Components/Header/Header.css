@@ -1,0 +1,19 @@
+input{
+    outline: none;
+}
+
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+.Header {
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 5px;
+    padding-top: 15px;
+    background-color: white;
+}
+
+.logo {
+    background-color: white;
+}
